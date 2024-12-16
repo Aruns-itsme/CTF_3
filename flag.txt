@@ -1,0 +1,1 @@
+Flag: flag{directory_traversal_exploited}
